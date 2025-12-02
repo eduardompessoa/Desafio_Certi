@@ -20,7 +20,8 @@ Além disso, as imagens dos bugs identificados podem ser consultadas dentro da p
 /evidencia
 
 Essa pasta contém capturas de tela coletadas durante os testes. Imagens essas também presentes dentro do arquivo: Evidencias_teste_exploratorio.
--------------------------------------------------------------------------------------------------------------------
+
+
 1.2 Casos de teste WEB
 Casos de teste Web – Documentação
 
@@ -31,7 +32,9 @@ Arquivos Incluídos
 PDF com o Descrição dos casos de testes: Casos_de_Teste. Arquivo esse possui sua versão Word, caso aconteça problemas de visualização.
 
 Foram utilizados cards de passo a passo para cada teste, abrangendo parte funcional com teste de caixa-preta, sem nenhum acesso ao código fonte da pagina Web.
--------------------------------------------------------------------------------------------------------------------
+
+
+
 2. Automação de testes WEB
 Automação de testes WEB – 
 Este repositório contém os materiais produzidos durante a realização do Automação de testes WEB utilizando Robot Framework. 
@@ -67,7 +70,8 @@ Pasta:Gravação tela - Contem as gravações de telas de cada teste juntamente 
 Arquivo .TXT - Contem código fonte dos casos de testes realizados;
 Desafio_Certi.robot - Arquivo gerado pela ferramenta Robot com testes;
 Relatorio_erro_formulario_atualizado_dropdown_Country.PDF - Contem relatório detalhado do FAIL referente ao teste: 1 - Cadastrar com Sucesso;
--------------------------------------------------------------------------------------------------------------------
+
+
 3. Testes de API
 Testes de API - Arquivos e instruções
 
