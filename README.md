@@ -88,9 +88,8 @@ Este repositório contém os materiais produzidos durante a realização dos tes
  Post - Criar Carrinho;
  Get - Listar Carrinho;
  Put - Atualizar Carrinho;
-
- Instruções:
  
+ Instruções: 
   - Importar o aquivo: FakeStoreAPI Collection.postman_collection.Json na ferramenta Postman;
   - As evidencias de cada teste estão na pasta: Evidencias;
 
